@@ -1,10 +1,10 @@
 # Olist E-Commerce SQL Analytics
 
-An end-to-end SQL analysis project using **real e-commerce data** from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), Brazil's largest department store marketplace. The dataset contains **100K+ orders** across **8 relational tables**, spanning 2016–2018.
+An end-to-end SQL analysis project using real e-commerce data from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), Brazil's largest department store marketplace. The dataset contains 100K+ orders across 8 relational tables, spanning 2016–2018.
 
 ## Project Overview
 
-This project demonstrates the full data analytics workflow — from **relational database design** and **complex SQL queries** to **Python-powered visualizations**. It explores revenue trends, delivery performance, customer segmentation (RFM), seller reliability, and payment behavior using real-world data.
+This project demonstrates the full data analytics workflow — from relational database design and complex SQL queries to Python-powered visualizations. It explores revenue trends, delivery performance, customer segmentation (RFM), seller reliability, and payment behavior using real-world data.
 
 
 ## Database 
@@ -36,7 +36,7 @@ The dashboard (`dashboard.png`) includes 6 charts:
 ## Key Findings
 
 - **Revenue grew ~12x** from Jan 2017 to Nov 2017, then stabilized around R$1M/month
-- **Health & Beauty and Watches** are the highest-revenue categories, while **Bed/Bath/Table** leads in order volume
+- **Health & Beauty and Watches** are the highest-revenue categories, while Bed/Bath/Table leads in order volume
 - **Credit cards** account for ~74% of payments; boleto (bank slip) is the second most popular at ~19%
 - **Strong negative correlation** between delivery delay and review scores — late deliveries see 2-3x more 1-star reviews
 - **São Paulo (SP)** alone generates ~40% of total revenue, followed by RJ and MG
